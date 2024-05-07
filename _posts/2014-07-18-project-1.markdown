@@ -5,8 +5,8 @@ date: 2024-04-23
 img: HighresFMP.png
 alt: VRInteractiveArchVis
 project-date: April 2024
-client: Start Bootstrap
+engine: Unreal Engine 5
 category: VR Development
-description: Describe Project lol
-title: MY TITLE
+description:  An application aimed at businesses offering interior design services to streamline the entire consultation and design process by increasing customer satisfaction and shortening project timelines in return to increase sales 
+title: Interactive VR ArchVis Interior Design
 ---
